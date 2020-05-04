@@ -1,0 +1,28 @@
+{
+    "blog_title": "Blog",
+    "blog_subtitle": "Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.",
+    "blog_items": [
+        {
+            "id": 1,
+            "title": "Vivamus ac vehicula dui",
+            "text": "Cras aliquet ligula dui, vitae fermentum velit tincidunt id. Praesent eu finibus nunc. Nulla in sagittis eros. Aliquam egestas augue.",
+            "img": "https://i.ibb.co/PThS08F/blog-item-01.png"
+        },
+        {
+            "id": 2,
+            "title": "Vivamus ac vehicula dui",
+            "text": "Cras aliquet ligula dui, vitae fermentum velit tincidunt id. Praesent eu finibus nunc. Nulla in sagittis eros. Aliquam egestas augue.",
+            "img": "https://i.ibb.co/dBSfk5w/blog-item-02.png"
+        },
+        {
+            "id": 3,
+            "title": "Vivamus ac vehicula dui",
+            "text": "Cras aliquet ligula dui, vitae fermentum velit tincidunt id. Praesent eu finibus nunc. Nulla in sagittis eros. Aliquam egestas augue.",
+            "img": "https://i.ibb.co/SdGZ16K/blog-item-03.png"
+        }
+    ]
+
+}
+
+
+

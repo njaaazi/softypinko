@@ -16,13 +16,12 @@ export default class Header extends Component {
                                         <img src={logo} alt="Softy Pinko"/>
                                     </a>
                                     <ul className={styles.nav}>
-                                        <li><Link to="#welcome">Home</Link></li>
-                                        <li><Link to="#features">About</Link></li>
-                                        <li><Link to="#work-process">Work Process</Link></li>
-                                        <li><Link to="#testimonials">Testimonials</Link></li>
-                                        <li><Link to="#pricing-plans">Pricing Tables</Link></li>
-                                        <li><Link to="#blog">Blog Entries</Link></li>
-                                        <li><Link to="#contact-us">Contact Us</Link></li>
+                                        <li><Link to="/">Home</Link></li>
+                                        <li><Link to="/work-process">Work Process</Link></li>
+                                        <li><Link to="/testimonials">Testimonials</Link></li>
+                                        <li><Link to="/pricing-plans">Pricing Tables</Link></li>
+                                        <li><Link to="/blog">Blog Entries</Link></li>
+                                        <li><Link to="/contact">Contact Us</Link></li>
                                     </ul>
                                     <a className={styles.menuTrigger}>
                                         <span>Menu</span>
