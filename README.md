@@ -1,2 +1,2 @@
-#Softypinko project
+Softypinko project
  
